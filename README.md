@@ -1,4 +1,4 @@
-```markdown
+
 # The Pamoja Foundation, Inc.
 
 > **"To invest in the next generation through scholarships, leadership, community service, and the preservation of a legacy worth protecting."**
@@ -106,4 +106,4 @@ Unless otherwise noted, all content in this repository is © The Pamoja Foundati
 ---
 
 **Brotherhood Evolved** • **Epsilon Psi Chapter** • **University of Maryland** • **1972–2027**
-```
+
